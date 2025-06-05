@@ -2,8 +2,7 @@
 from mcp.server.fastmcp import FastMCP
 
 # Create an MCP server
-mcp = FastMCP("Demo")
-
+mcp = FastMCP("Addition_Greeting_Demo")
 
 # Add an addition tool
 @mcp.tool()
@@ -17,3 +16,7 @@ def add(a: int, b: int) -> int:
 def get_greeting(name: str) -> str:
     """Get a personalized greeting"""
     return f"Hello from yashwant to: {name}!"
+
+
+if __name__== "__main__":
+    mcp.run()
