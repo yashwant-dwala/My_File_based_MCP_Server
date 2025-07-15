@@ -4,8 +4,8 @@
 
 2. create project by uv : uv init file-MCP-SERVER 
 
-3. add mcp to project dependencies : uv add "mcp[cli]"
+3. install mcp package in python supports 3.10+
 
-4. to run mcp commands with uv : uv run mcp
+4. to add mcp server in claude config: uv run mcp install {filename in project}
 
-5. 
+5. routs must be visible in claude

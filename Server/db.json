@@ -2,53 +2,53 @@
     "users": [
         {
             "id": 1,
-            "name": "Alice Johnson",
+            "DOB": "1999-10-22",
             "age": 26,
-            "phone_number": "+1-555-123-4567",
+            "name": "Alice Johnson",
+            "email": "abcKiMaaKaBhosda@gmail.com",
             "address": "123 Elm Street, Springfield",
-            "email": "alice.johnson@example.com",
             "created_at": "2025-07-17",
-            "DOB": "1999-10-22"
+            "phone_number": "+1-555-123-4567"
         },
         {
             "id": 2,
-            "name": "Bob Smith",
+            "DOB": "1995-08-14",
             "age": 30,
-            "phone_number": "+1-555-234-5678",
-            "address": "456 Oak Avenue, Lincoln",
+            "name": "Bob Smith",
             "email": "bob.smith@example.com",
+            "address": "456 Oak Avenue, Lincoln",
             "created_at": "2025-07-17",
-            "DOB": "1995-08-14"
+            "phone_number": "+1-555-234-5678"
         },
         {
             "id": 3,
-            "name": "Catherine Lee",
+            "DOB": "1997-04-09",
             "age": 28,
-            "phone_number": "+1-555-345-6789",
-            "address": "789 Pine Lane, Rivertown",
+            "name": "Catherine Lee",
             "email": "catherine.lee@example.com",
+            "address": "789 Pine Lane, Rivertown",
             "created_at": "2025-07-17",
-            "DOB": "1997-04-09"
+            "phone_number": "+1-555-345-6789"
         },
         {
             "id": 4,
-            "name": "David Wright",
-            "age": 35,
-            "phone_number": "+1-555-456-7890",
-            "address": "321 Maple Blvd, Centerville",
-            "email": "david.wright@example.com",
-            "created_at": "2025-07-17",
-            "DOB": "1990-12-30"
+            "DOB": "1988-03-15",
+            "age": 37,
+            "name": "Michael Rodriguez",
+            "email": "mike.rodriguez.92@outlook.com",
+            "address": "987 Sunset Drive, Mountainview",
+            "created_at": "2025-06-22",
+            "phone_number": "+1-555-987-3421"
         },
         {
             "id": 5,
-            "name": "Emily Davis",
+            "DOB": "2001-06-05",
             "age": 24,
-            "phone_number": "+1-555-567-8901",
-            "address": "654 Cedar Road, Pleasantview",
+            "name": "Emily Davis",
             "email": "emily.davis@example.com",
+            "address": "654 Cedar Road, Pleasantview",
             "created_at": "2025-07-17",
-            "DOB": "2001-06-05"
+            "phone_number": "+1-555-567-8901"
         }
     ],
     "vehicles": [
